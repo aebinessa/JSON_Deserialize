@@ -1,5 +1,5 @@
 ## Welcome to this Repository on JSON deserialization via UiPath.
-
+- You can follow along with tutorial below or pull the code, the sample file used "JsonString.txt" is in the repository, if you choose to do the tutorial on your own you can move the "JsonString.txt" to your project or download it on your machine and use it in UiPath Directly.
 
 To demonstrate the usage of the Deserialize JSON activity for extracting data from a JSON file, let's look at an example that retrieves a person's age from a simple JSON file.
 
