@@ -1,0 +1,9 @@
+{
+    "name":"Nahshel",
+    "age":23,
+    "cars": {
+        "car1":"Ford Fusion Hybrid",
+        "car2":"Ford Mustang GT",
+        "car3":"Suzuki Jimny"
+    }
+}
