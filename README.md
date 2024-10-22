@@ -28,3 +28,8 @@ Drag an "Assign" activity below the "Deserialize JSON" activity.
  - Finally, add a "Write Line" activity and input the Age variable into the Text field.
 
 And now, When you run the process, the robot will extract the age value from the JSON file and display it in the Output panel.
+
+### Sequence Screenshot: 
+
+![image](https://github.com/user-attachments/assets/b3d91e06-f028-4ad1-918e-97fd45cba5ce)
+
