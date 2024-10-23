@@ -33,3 +33,4 @@ Drag an "Assign" activity below the "Deserialize JSON" activity.
 
 ![image](https://github.com/user-attachments/assets/b3d91e06-f028-4ad1-918e-97fd45cba5ce)
 
+Credits to : https://docs.uipath.com/activities/other/latest/developer/deserialize-json
